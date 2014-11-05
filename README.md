@@ -6,6 +6,8 @@ This is just a DEB file built on a Raspberry PI!
 
 I AM NOT THE AUTHOR OF XUPNPD SO I OFFER NO SUPPORT JUST AN INSTALL FILE!
 
+For all info on xupnpd - http://xupnpd.org/
+
 ``````````````
 
 xupnpd - eXtensible UPnP agent
@@ -41,3 +43,5 @@ Parent control (Access Control List)
 Web-based user interface
 LUA scripting
 ````
+
+For all support see http://xupnpd.org/

@@ -9,6 +9,7 @@ I AM NOT THE AUTHOR OF XUPNPD SO I OFFER NO SUPPORT JUST AN INSTALL FILE!
 ``````````````
 
 xupnpd - eXtensible UPnP agent
+--------
 This program is a light DLNA Media Server which provides ContentDirectory:1 service for sharing IPTV unicast streams over local area network (with udpxy for multicast to HTTP unicast conversion).
 
 The program shares UTF8-encoded M3U playlists with links over local area network as content of the directory.
@@ -29,6 +30,7 @@ Ubuntu 10.04 with VideoLAN as UPnP player
 
 
 Features
+-----
 
 Builtin DLNA/UPnP media server for sharing local media files and external IPTV/Radio streams
 Builtin multicast proxy for MPEG-TS streams

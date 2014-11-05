@@ -26,3 +26,15 @@ HTC Desire, HTC Sensation as UPnP player (Android 2.2 + UPnPlay/BubbleUPnP + VPl
 Samsung UE46D6510, Samsung UE40D5000PW, Samsung LE40c550, Samsung LE40B650, Samsung UE40C6000, Samsung US46ES6100, Samsung UE32EH6037, LG PZ750, Sony 26EX231, Philips 47pfl7606h as player
 Microsoft Windows Media Player 11 as UPnP player
 Ubuntu 10.04 with VideoLAN as UPnP player
+
+
+Features
+
+Builtin DLNA/UPnP media server for sharing local media files and external IPTV/Radio streams
+Builtin multicast proxy for MPEG-TS streams
+YouTube, Vimeo and GameTrailers plugins (HD)
+No transcoding
+HDTV ready
+Parent control (Access Control List)
+Web-based user interface
+LUA scripting
